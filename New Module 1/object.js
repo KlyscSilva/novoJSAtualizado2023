@@ -2,7 +2,9 @@ const person = {
 
     name: "matheus",
     idade: 25,
-    nacionalidade: "brasileiro"
+    nacionalidade: "brasileiro",
+    andress: "rua souza uzel"
 }
 
-console.log(person.nacionalidade);
+console.log(person);
+
